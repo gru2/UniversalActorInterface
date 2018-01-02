@@ -1,0 +1,4 @@
+
+UniversalActorInterface is simple but general C interface to actors implemented
+in a shared library.
+
